@@ -23,6 +23,7 @@ body {
     /* background: #12f7ff; */
     border-radius: 10px;
     transform-origin: bottom;
+    box-shadow: 0 0 20px white;
 }
 
 #hour {
